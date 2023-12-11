@@ -10,14 +10,6 @@
 
 I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I publish that content on my Blog channel "[https://sitemapdev.co.ke/]".
 
-   <p align="left">
-
-      <a href="https://github.com/mulikevs?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mulikevs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/mulikevs?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mulikevs?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
 ---
 
 ### 🧰 Languages and Tools
