@@ -1,12 +1,11 @@
 # 🏄‍♂️ Kelvin M. Mwau
 
+**`Digital Craftsman (Developer)`**
+
 ### Hi there 👋
 
-#### “Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.” ###### Henry van Dyke
+#### “Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.”  Henry van Dyke
  
-
-
-**`Digital Craftsman (Developer)`**
 
 I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I publish that content on my Blog channel "[https://sitemapdev.co.ke/]".
 
