@@ -54,7 +54,7 @@ I'm a full-stack developer building my version of the digital world one step at 
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="mulikevs's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mulikevs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="mulikevs's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mulikevs&theme=vue" /></a>
 
 
 
