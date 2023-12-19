@@ -43,7 +43,7 @@ I'm a full-stack developer building my version of the digital world one step at 
   <!-- GitHub Readme Streak Stats - https://github.com/mulikevs/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/mulikevs/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mulikevs's streak" src="https://streak-stats.demolab.com/?user=mulikevs&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mulikevs's streak" src="https://streak-stats.demolab.com/?user=mulikevs&theme=monokai-metallian"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
@@ -57,7 +57,7 @@ I'm a full-stack developer building my version of the digital world one step at 
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="mulikevs's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mulikevs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="mulikevs's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mulikevs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" /></a>
 
 
 
