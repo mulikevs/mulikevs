@@ -1,6 +1,6 @@
 # 🏄‍♂️ Kelvin M. Mwau
 
-**`Digital Craftsman (Developer)`**
+**`Digital Craftsman (Software Engineer)`**
 
 ### Hi there 👋
 
