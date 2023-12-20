@@ -49,8 +49,6 @@ I'm a full-stack developer building my version of the digital world one step at 
 
 <br/>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="mulikevs's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mulikevs&theme=vue" /></a>
