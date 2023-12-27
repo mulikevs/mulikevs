@@ -46,7 +46,5 @@ I'm a full-stack developer building my version of the digital world one step at 
 
 
 </details>
-
-
 [website]: https://sitemapdev.co.ke/
 
