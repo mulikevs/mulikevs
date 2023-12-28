@@ -44,5 +44,6 @@ I'm a full-stack developer building my version of the digital world one step at 
 <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="mulikevs's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mulikevs&theme=vue" /></a>
 </details>
+
 [website]: https://sitemapdev.co.ke/
 
