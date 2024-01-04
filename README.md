@@ -33,6 +33,7 @@ I'm a full-stack developer building my version of the digital world one step at 
 
 #
 
+
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
   <h3>🔥 Streak Stats</h3>
