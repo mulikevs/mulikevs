@@ -40,6 +40,7 @@ I'm a full-stack developer building my version of the digital world one step at 
   <!-- GitHub Readme Streak Stats - https://github.com/mulikevs/github-readme-streak-stats -->
   <p>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mulikevs&theme=vue-dark" alt="GitHub Streak" /></a>
+   
   </p>
   <h3>💻 GitHub Profile Stats</h3>
 <br/>
